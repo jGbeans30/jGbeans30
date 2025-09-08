@@ -4,7 +4,7 @@
 <img src="https://file.garden/Zp9noIad_WH59L9w/github/it%20me%20jg" align="left" />
 
 <h1>☆★☆ JG  Kitty <img alt="Static Badge" src="https://img.shields.io/badge/Strawpage-cc142d?style=plastic&link=https%3A%2F%2Fjgtown.straw.page%2F"> <img alt="Static Badge" src="https://img.shields.io/badge/Atabook-2088b4?style=plastic&link=https%3A%2F%2Fjgkitty32.atabook.org%2F"> · <img alt="Static Badge" src="https://img.shields.io/badge/%F0%9F%8C%99-offtab-e38f29?style=plastic"> · <img alt="Static Badge" src="https://img.shields.io/badge/Barenaked%20Ladies%20%231%20Fan-57d62d?style=plastic"></h1>
-<h2> "Welcome to Good Burger, home of the Good Burger, can I take your order?" </h2>
+<h3> "Welcome to Good Burger, home of the Good Burger, can I take your order?" </h3>
 
 ![cd](https://graphic.neocities.org/cdisk.gif)  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=fluffyfireworks&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=4374fa&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
