@@ -11,8 +11,9 @@
 
 
 
-                    dni - proship, that's about it                int - if you LOVE BURGER SPONGEBOB EPICSAUCE
-                          just hide me please <3                        if you LOVE BIG BANG THEORY 
+                    dni - proship/darkship, you make              int - if you LOVE BIG BANG THEORY
+                          "touching" jokes (you can int, just           if you LOVE BIG BANG THEORY
+                          don't make them around me pls)                if you LOVE BIG BANG THEORY 
 
 
 <p align="center">
