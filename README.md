@@ -6,7 +6,7 @@
 <img width="106" height="137" src="https://file.garden/Zp9noIad_WH59L9w/github/it%20me%20jg" align="left" />
 <h3> "Welcome to Good Burger, home of the Good Burger, can I take your order?" </h3>
 
-|☆ Call me JG or Kitty ☆ He/Him <br> ☆ I'm beautiful and everybody should give me a kiss<br> ☆ c + h is ok!!!<br> ☆ Usually at docks or with friends<br>![CD](https://graphic.neocities.org/cdisk.gif)[![currently playing](https://spotify-github-profile.kittinanx.com/api/view?uid=fluffyfireworks&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=4374fa&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)|![Recently played](https://lastfm-recently-played.vercel.app/api?user=JG1847020&count=3&width=300&header_style=compact_stats&loved=true&loved_style=3)|
+|☆ Call me JG or Kitty ☆ He/Him <br> ☆ I'm beautiful and everybody should give me a kiss<br> ☆ c + h is ok!!!<br> ☆ Usually at docks or with friends<br>![CD](https://graphic.neocities.org/cdisk.gif)<br>[![currently playing](https://spotify-github-profile.kittinanx.com/api/view?uid=fluffyfireworks&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=4374fa&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)|![Recently played](https://lastfm-recently-played.vercel.app/api?user=JG1847020&count=3&width=300&header_style=compact_stats&loved=true&loved_style=3)|
 |:---|---|
 
 
