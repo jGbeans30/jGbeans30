@@ -22,13 +22,13 @@
   </tr>
 </table>
       
-    dni - proship/darkship, you make
-          "touching" jokes (you can int, just
-          don't make them around me pls)
+          dni - proship/darkship, you make
+                "touching" jokes (you can int, just
+                don't make them around me pls)
           
-    int - if you LOVE BIG BANG THEORY
-          if you LOVE BIG BANG THEORY
-          if you LOVE BIG BANG THEORY
+          int - if you LOVE BIG BANG THEORY
+                if you LOVE BIG BANG THEORY
+                if you LOVE BIG BANG THEORY
 
           
 <img width="114" src="https://file.garden/Zp9noIad_WH59L9w/github/it%20me%20jg"><img width="123" src="https://file.garden/Zp9noIad_WH59L9w/github/detachable_peeeenis"><img width="142" src="https://file.garden/Zp9noIad_WH59L9w/github/it%20me%20kitty">
