@@ -6,14 +6,29 @@
 <h3 align="center"> "Welcome to Good Burger, home of the Good Burger, can I take your order?" </h3>
 <img width="127" height="317" src="https://file.garden/Zp9noIad_WH59L9w/github/pibby%20and%20glitch" align="left" />
 
-|☆ Call me JG or Kitty ☆ He/Him ☆ Autistic<br>☆ I'm beautiful and everybody should give me a kiss<br>☆ c + h is ok!!! I'm mostly hiding lol<br>☆ Usually at Docks, the Bakery, or with Friends!!!<br>![CD](https://graphic.neocities.org/cdisk.gif)<br>[![currently playing](https://spotify-github-profile.kittinanx.com/api/view?uid=fluffyfireworks&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=4374fa&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)|![Recently played](https://lastfm-recently-played.vercel.app/api?user=JG1847020&count=5&width=300&header_style=compact_stats&loved=true&loved_style=3)|
-|:---|---|
+<table align="right">
+  <tr>
+    <th>
+      
+![CD](https://graphic.neocities.org/cdisk.gif)[![currently playing](https://spotify-github-profile.kittinanx.com/api/view?uid=fluffyfireworks&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=4374fa&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)<br>![Recently played](https://lastfm-recently-played.vercel.app/api?user=JG1847020&count=5&width=390&header_style=compact_stats&loved=true&loved_style=3&maxage=60)
+    </th>
+  </tr>
+</table>
+<table>
+  <tr>
+    <th align="left">☆ Call me JG or Kitty ☆ He/Him ☆ Autistic<br>☆ I'm beautiful and everybody should give me a kiss<br>☆ c + h is ok!!! I'm mostly hiding lol<br>☆ Usually at Docks, the Bakery, or with Friends!!!</th>
+  </tr>
+</table>
+      
+    dni - proship/darkship, you make
+          "touching" jokes (you can int, just
+          don't make them around me pls)
+          
+    int - if you LOVE BIG BANG THEORY
+          if you LOVE BIG BANG THEORY
+          if you LOVE BIG BANG THEORY
 
-
-                    dni - proship/darkship, you make              int - if you LOVE BIG BANG THEORY
-                          "touching" jokes (you can int, just           if you LOVE BIG BANG THEORY
-                          don't make them around me pls)                if you LOVE BIG BANG THEORY 
-
+          
 
 <p align="center">
   <img src="https://gifcity.carrd.co/assets/images/gallery44/57677591.png?v=e3c0bc0f">
