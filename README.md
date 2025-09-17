@@ -9,13 +9,13 @@
   <tr>
     <th>
       
-![CD](https://graphic.neocities.org/cdisk.gif)[![currently playing](https://spotify-github-profile.kittinanx.com/api/view?uid=fluffyfireworks&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=e0c826&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)<br>![Recently played](https://lastfm-recently-played.vercel.app/api?user=JG1847020&count=5&width=390&header_style=compact_stats&loved=true&loved_style=3&maxage=60&bg_color=085859)
+![CD](https://graphic.neocities.org/cdisk.gif)[![currently playing](https://spotify-github-profile.kittinanx.com/api/view?uid=fluffyfireworks&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=e0c826&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)<br>![Recently played](https://lastfm-recently-played.vercel.app/api?user=JG1847020&count=6&width=390&header_style=compact_stats&loved=true&loved_style=3&maxage=60&bg_color=085859)
     </th>
   </tr>
 </table>
 <table align="center">
   <tr>
-    <th><img width="370" src="https://web.archive.org/web/20091021165807if_/http://www.geocities.com/eugenefides28/Starry_divider.gif"></th>
+    <th><img width="380" src="https://web.archive.org/web/20091021165807if_/http://www.geocities.com/eugenefides28/Starry_divider.gif"></th>
   </tr>
   <tr>
     <th align="left">☆ Call me JG or Kitty ☆ He/Him ☆ Autistic<br>☆ I'm beautiful and everybody should give me a kiss<br>☆ c + h is ok!!! I mostly hide lol<br>☆ Usually at Docks, the Bakery, or with Friends!!!</th>
@@ -34,7 +34,7 @@
 <table align="center">
   <tr>
     <th>
-<img width="114" src="https://file.garden/Zp9noIad_WH59L9w/github/it%20me%20jg"><img width="123" src="https://file.garden/Zp9noIad_WH59L9w/github/detachable_peeeenis"><img width="142" src="https://file.garden/Zp9noIad_WH59L9w/github/it%20me%20kitty">
+<img width="114" src="https://file.garden/Zp9noIad_WH59L9w/github/it_me_jgx3"><img width="123" src="https://file.garden/Zp9noIad_WH59L9w/github/detachable_peeeeenisx3"><img width="142" src="https://file.garden/Zp9noIad_WH59L9w/github/it_me_kittyx3">
     </th>
   </tr>
   <tr>
