@@ -15,7 +15,10 @@
 </table>
 <table align="center">
   <tr>
-    <th align="left">☆ Call me JG or Kitty☆ He/Him ☆ Autistic<br>☆ I'm beautiful and everybody should give me a kiss<br>☆ c + h is ok!!! I mostly hide lol<br>☆ Usually at Docks, the Bakery,or with Friends!!!</th>
+    <th><img width="390" src="https://web.archive.org/web/20091021165807if_/http://www.geocities.com/eugenefides28/Starry_divider.gif"></th>
+  </tr>
+  <tr>
+    <th align="left">☆ Call me JG or Kitty ☆ He/Him ☆ Autistic<br>☆ I'm beautiful and everybody should give me a kiss<br>☆ c + h is ok!!! I mostly hide lol<br>☆ Usually at Docks, the Bakery,or with Friends!!!</th>
   </tr>
 </table>
       
@@ -28,7 +31,7 @@
           if you LOVE BIG BANG THEORY
 
           
-<img src="https://file.garden/Zp9noIad_WH59L9w/github/it%20me%20jg"><img src="https://file.garden/Zp9noIad_WH59L9w/github/detachable_peeeenis">
+<img width="114" src="https://file.garden/Zp9noIad_WH59L9w/github/it%20me%20jg"><img width="123" src="https://file.garden/Zp9noIad_WH59L9w/github/detachable_peeeenis"><img width="142" src="https://file.garden/Zp9noIad_WH59L9w/github/it%20me%20kitty">
 
 <p align="center">
   <img src="https://gifcity.carrd.co/assets/images/gallery44/57677591.png?v=e3c0bc0f">
