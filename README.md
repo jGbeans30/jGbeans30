@@ -14,9 +14,9 @@
     </th>
   </tr>
 </table>
-<table>
+<table align="center">
   <tr>
-    <th align="left">☆ Call me JG or Kitty<br>☆ He/Him ☆ Autistic<br>☆ I'm beautiful and everybody should<br> give me a kiss<br>☆ c + h is ok!!!<br>☆ Usually at Docks, the Bakery,<br>or with Friends!!!</th>
+    <th align="left">☆ Call me JG or Kitty<br>☆ He/Him ☆ Autistic<br>☆ I'm beautiful and everybody<br> should give me a kiss<br>☆ c + h is ok!!!<br>☆ Usually at Docks, the Bakery,<br>or with Friends!!!</th>
   </tr>
 </table>
       
