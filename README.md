@@ -9,7 +9,8 @@
   <tr>
     <th>
       
-![CD](https://graphic.neocities.org/cdisk.gif)![currently playing](https://spotify-github-profile.kittinanx.com/api/view?uid=fluffyfireworks&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=e0c826&bar_color_cover=false)<br>![Recently played](https://lastfm-recently-played.vercel.app/api?user=JG1847020&count=6&width=390&header_style=compact_stats&loved=true&loved_style=3&maxage=60&bg_color=085859)<br>![Currently playing](https://steam-current-game.vercel.app/api/?steamids=76561199521157381)
+![CD](https://graphic.neocities.org/cdisk.gif)![currently playing](https://spotify-github-profile.kittinanx.com/api/view?uid=fluffyfireworks&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=e0c826&bar_color_cover=false)<br>![Recently played](https://lastfm-recently-played.vercel.app/api?user=JG1847020&count=6&width=390&header_style=compact_stats&loved=true&loved_style=3&maxage=60&bg_color=085859)<br>
+<img width="390" src="https://steam-current-game.vercel.app/api/?steamids=76561199521157381">
     </th>
   </tr>
 </table>
