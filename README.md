@@ -72,3 +72,4 @@
 <a href="https://github.com/kittinan/spotify-github-profile"><kbd>spotify embed</kbd></a>
 <a href="https://github.com/JeffreyCA/lastfm-recently-played-readme"><kbd>last.fm embed</kbd></a>
 <a href="https://shields.io/badges"><kbd>button maker</kbd></a>
+<a href="https://github.com/j4ckofalltrades/steam-current-game"><kbd>steam in-game</kbd></a>
