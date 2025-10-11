@@ -43,7 +43,7 @@
     </th>
   </tr>
   <tr>
-    <th align="center"><img src="https://gifcity.carrd.co/assets/images/gallery49/97eaaacd.gif?v=e3c0bc0f"> Fun Fact: Literally Me <img src="https://gifcity.carrd.co/assets/images/gallery49/97eaaacd.gif?v=e3c0bc0f"></th>
+    <th align="center"><img src="https://gifcity.carrd.co/assets/images/gallery49/97eaaacd.gif?v=e3c0bc0f"> Fun Fact: Literally Me <img src="https://gifcity.carrd.co/assets/images/gallery49/97eaaacd.gif?v=e3c0bc0f"><br><img width="380" src="https://web.archive.org/web/20091021165807if_/http://www.geocities.com/eugenefides28/Starry_divider.gif"></th>
   </tr>
 </table>
 
