@@ -38,7 +38,7 @@
     </th>
   </tr>
   <tr>
-    <th align="center">Fun Fact: Literally Me</th>
+    <th align="center"><img src="https://gifcity.carrd.co/assets/images/gallery49/97eaaacd.gif?v=e3c0bc0f"> Fun Fact: Literally Me <img src="https://gifcity.carrd.co/assets/images/gallery49/97eaaacd.gif?v=e3c0bc0f"></th>
   </tr>
 </table>
 
