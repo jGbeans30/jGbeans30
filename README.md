@@ -7,7 +7,7 @@
 <p align="center">
   <img width="600" src="https://64.media.tumblr.com/b5ed993355fffed9476084353783253c/0a1976f702f6b001-a3/s1280x1920/b3e93080d7ad5e0f68c603520253e1cff5782b79.pnj">
 </p>
-<h3 align="center"><img src="https://64.media.tumblr.com/60b556a21b1e1d7b7e723ad233590c1d/1707a372e2fb7ddc-aa/s75x75_c1/4643537dcb7cc3bd818b3544ab934b27db937149.gifv">  "Why are you so obsessed with Halloween?" <i>"Halloween is cool"</i> <img src="https://64.media.tumblr.com/a68ec50d71f7924abed16e3acd903c2a/1707a372e2fb7ddc-00/s75x75_c1/44ac5f6c67a8021d90dd489d8375aa3b96446ba4.gifv"></h3>
+<h3 align="center"><img src="https://64.media.tumblr.com/60b556a21b1e1d7b7e723ad233590c1d/1707a372e2fb7ddc-aa/s75x75_c1/4643537dcb7cc3bd818b3544ab934b27db937149.gifv">  "Why are you so obsessed with Halloween?" <i>"Halloween is COOL"</i> <img src="https://64.media.tumblr.com/a68ec50d71f7924abed16e3acd903c2a/1707a372e2fb7ddc-00/s75x75_c1/44ac5f6c67a8021d90dd489d8375aa3b96446ba4.gifv"></h3>
 
 <table align="right">
   <tr>
