@@ -62,17 +62,18 @@ good job"> <img src="https://img.shields.io/badge/%E2%80%8E%20-addict-ffcc00?sty
   </tr>
 </table>
 
-<img src="https://64.media.tumblr.com/be9c37d5bb31788d8d95e25ad861ebe4/8680f2784c87222c-cc/s250x400/744e339fa8a9f8c86edd552f9df95f79acdb48b2.gifv" align="left">
-<img src="https://64.media.tumblr.com/bcf41583a1187f191f6eed0d9e8069f1/8680f2784c87222c-a8/s100x200/237ec301a4361393c34d3aa23a3c7d4bbd9be941.gifv" align="right">
-
 <p align="center">
   <img width="600" src="https://64.media.tumblr.com/b5ed993355fffed9476084353783253c/0a1976f702f6b001-a3/s1280x1920/b3e93080d7ad5e0f68c603520253e1cff5782b79.pnj">
 </p>
+
+<img src="https://64.media.tumblr.com/be9c37d5bb31788d8d95e25ad861ebe4/8680f2784c87222c-cc/s250x400/744e339fa8a9f8c86edd552f9df95f79acdb48b2.gifv" align="left">
+<img src="https://64.media.tumblr.com/bcf41583a1187f191f6eed0d9e8069f1/8680f2784c87222c-a8/s100x200/237ec301a4361393c34d3aa23a3c7d4bbd9be941.gifv" align="right">
 
 <details align="center">
   <summary><b>Blinkies Collection<br>FLASHING WARNING</b></summary>
 
 <p align="center">
+<br>
 <img src="https://supplies.ju.mp/assets/images/gallery14/1cc22fda.png?v=9163b103"><img src="https://web.archive.org/web/20091021132205im_/http://geocities.com/chrissyhanson3/dalecar.gif"><img src="https://supplies.ju.mp/assets/images/gallery14/fdd7972c.png?v=9163b103">
 <br><img width="150" height="20" src="https://64.media.tumblr.com/72476a06511d20ac7896cf5fc06196dc/e25df2ffb7644fdb-05/s400x600/9b72dfa1141dd28e9ad44a61501cd9730874ccac.gifv"><img width="150" height="20" src="https://64.media.tumblr.com/5a3202d9b653088f40b75f92f0eb79cd/b4c14e8dd7612fb6-b3/s400x600/c364ffd9a89201ff2961f766208142195ec80bd1.gifv"><img width="150" height="20" src="https://64.media.tumblr.com/0a0f327243ae170c60b3ec731fe96233/e25df2ffb7644fdb-37/s400x600/0291efb47b2c1c5cb5439502a9bfe51b2e9c3ec2.gifv"><img src="https://supplies.ju.mp/assets/images/gallery07/6b3f218c.gif?v=9163b103"><img width="150" height="20" src="https://web.archive.org/web/20091021132205im_/http://geocities.com/chrissyhanson3/hotstuff.gif"><img src="https://gifcity.carrd.co/assets/images/gallery15/30e5aecd.gif?v=5bf8fcf7">
 <img src="https://gifcity.carrd.co/assets/images/gallery14/a9c10a11.gif?v=d7271437"><img width="150" height="20" src="https://64.media.tumblr.com/37ba6f0f378e70b0ad0f8627d60d0588/ae12f84f80c0475b-07/s250x400/ea7461946a5180e4f1a107f867794045ca919076.gifv"><img src="https://supplies.ju.mp/assets/images/gallery07/168ef151.gif?v=9163b103"><img src="https://supplies.ju.mp/assets/images/gallery07/40f76758.gif?v=9163b103"><img width="150" height="20" src="https://web.archive.org/web/20091021132205im_/http://geocities.com/chrissyhanson3/biteme2.gif"><img src="https://gifcity.carrd.co/assets/images/gallery18/3addd818.gif?v=d7271437">
