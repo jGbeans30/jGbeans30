@@ -40,13 +40,14 @@ good job"> <img src="https://img.shields.io/badge/%E2%80%8E%20-addict-ffcc00?sty
   </tr>
 </table>
       
-          dni - proship/darkship, you make
-                "touching" jokes (you can int, just
-                don't make them around me pls)
+        dni - proship/darkship, you make
+              "touching" jokes (you can int, just
+              don't make them around me pls),
+              ur like 12 or something
           
-          int - if you LOVE BIG BANG THEORY
-                if you LOVE BIG BANG THEORY
-                if you LOVE BIG BANG THEORY
+        int - if you LOVE BIG BANG THEORY
+              if you LOVE BIG BANG THEORY
+              if you LOVE BIG BANG THEORY
 
 
 <table align="center">
