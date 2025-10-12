@@ -26,6 +26,7 @@ good job"> <img src="https://img.shields.io/badge/%E2%80%8E%20-addict-ffcc00?sty
     </th>
   </tr>
 </table>
+
 <table align="center">
   <tr>
     <th><img width="380" src="https://web.archive.org/web/20091021165807if_/http://www.geocities.com/eugenefides28/Starry_divider.gif"></th>
@@ -40,14 +41,14 @@ good job"> <img src="https://img.shields.io/badge/%E2%80%8E%20-addict-ffcc00?sty
   </tr>
 </table>
       
-        dni - proship/darkship, you make
-              "touching" jokes (you can int, just
-              don't make them around me pls),
-              ur like 12 or something
+          dni - proship/darkship, you make
+                "touching" jokes (you can int, just
+                don't make them around me pls),
+                ur like 12 or something
           
-        int - if you LOVE BIG BANG THEORY
-              if you LOVE BIG BANG THEORY
-              if you LOVE BIG BANG THEORY
+          int - if you LOVE BIG BANG THEORY
+                if you LOVE BIG BANG THEORY
+                if you LOVE BIG BANG THEORY
 
 
 <table align="center">
@@ -60,6 +61,9 @@ good job"> <img src="https://img.shields.io/badge/%E2%80%8E%20-addict-ffcc00?sty
     <th align="center"><img src="https://gifcity.carrd.co/assets/images/gallery49/97eaaacd.gif?v=e3c0bc0f"> Fun Fact: Literally Me <img src="https://gifcity.carrd.co/assets/images/gallery49/97eaaacd.gif?v=e3c0bc0f"><br><img width="380" src="https://web.archive.org/web/20091021165807if_/http://www.geocities.com/eugenefides28/Starry_divider.gif"></th>
   </tr>
 </table>
+
+<img src="https://64.media.tumblr.com/be9c37d5bb31788d8d95e25ad861ebe4/8680f2784c87222c-cc/s250x400/744e339fa8a9f8c86edd552f9df95f79acdb48b2.gifv" align="left">
+<img src="https://64.media.tumblr.com/bcf41583a1187f191f6eed0d9e8069f1/8680f2784c87222c-a8/s100x200/237ec301a4361393c34d3aa23a3c7d4bbd9be941.gifv" align="right">
 
 <p align="center">
   <img width="600" src="https://64.media.tumblr.com/b5ed993355fffed9476084353783253c/0a1976f702f6b001-a3/s1280x1920/b3e93080d7ad5e0f68c603520253e1cff5782b79.pnj">
