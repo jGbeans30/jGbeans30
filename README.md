@@ -21,7 +21,7 @@ good job"> <img src="https://img.shields.io/badge/%E2%80%8E%20-addict-ffcc00?sty
   <tr>
     <th>
       
-![CD](https://graphic.neocities.org/cdisk.gif)![currently playing](https://spotify-github-profile.kittinanx.com/api/view?uid=fluffyfireworks&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=e0c826&bar_color_cover=false)<br>![Recently played](https://lastfm-recently-played.vercel.app/api?user=JG1847020&count=5&width=390&header_style=compact_stats&loved=true&loved_style=3&maxage=60&bg_color=085859)<br>
+![CD](https://graphic.neocities.org/cdisk.gif)![currently playing](https://spotify-github-profile.kittinanx.com/api/view?uid=fluffyfireworks&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=e0c826&bar_color_cover=false)<br>![Recently played](https://lastfm-recently-played.vercel.app/api?user=JG1847020&count=6&width=390&header_style=compact_stats&loved=true&loved_style=3&maxage=60&bg_color=085859)<br>
 <img width="390" src="https://steam-current-game.vercel.app/api/?steamids=76561199521157381"><br><img src="https://steam-readme-stats.uwu.gal/api/76561199521157381/stats/badge/playtime?format=hours_and_minutes&style=for-the-badge&color=8f8b0a&label_color=2b2a04"><img src="https://steam-readme-stats.uwu.gal/api/76561199521157381/stats/badge/games?style=for-the-badge&color=8f8b0a&label_color=2b2a04">
     </th>
   </tr>
@@ -29,7 +29,7 @@ good job"> <img src="https://img.shields.io/badge/%E2%80%8E%20-addict-ffcc00?sty
 
 <table align="center">
   <tr>
-    <th><img width="380" src="https://web.archive.org/web/20091021165807if_/http://www.geocities.com/eugenefides28/Starry_divider.gif"></th>
+    <th align="center" ><img width="380" src="https://web.archive.org/web/20091021165807if_/http://www.geocities.com/eugenefides28/Starry_divider.gif"><br><img src="https://gifcity.carrd.co/assets/images/gallery49/97eaaacd.gif?v=e3c0bc0f"> </th>
   </tr>
   <tr>
     <th align="left">☆ Call me JG or Kitty ★ He/Him ☆ Autistic
