@@ -22,7 +22,7 @@ good job"></a> <img src="https://img.shields.io/badge/%E2%80%8E%20-addict-ffcc00
     <th>
       
 ![CD](https://graphic.neocities.org/cdisk.gif)![currently playing](https://spotify-github-profile.kittinanx.com/api/view?uid=fluffyfireworks&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=e0c826&bar_color_cover=false)<br>![Recently played](https://lastfm-recently-played.vercel.app/api?user=JG1847020&count=6&width=390&header_style=compact_stats&loved=true&loved_style=3&maxage=60&bg_color=085859)<br>
-<img width="390" src="https://steam-current-game.vercel.app/api/?steamids=76561199521157381"><br><img src="https://steam-readme-stats.uwu.gal/api/76561199521157381/stats/badge/playtime?format=hours_and_minutes&style=for-the-badge&color=8f8b0a&label_color=2b2a04"><img src="https://steam-readme-stats.uwu.gal/api/76561199521157381/stats/badge/games?style=for-the-badge&color=8f8b0a&label_color=2b2a04">
+<img width="390" src="https://steam-current-game.vercel.app/api/?steamids=76561199521157381"><br><img src="https://steam-readme-stats.uwu.gal/api/76561199521157381/stats/badge/playtime?format=hours_and_minutes&style=flat-square&color=8f8b0a&label_color=2b2a04" align="left"><img src="https://steam-readme-stats.uwu.gal/api/76561199521157381/stats/badge/games?style=flat-square&color=8f8b0a&label_color=2b2a04" align="left">
     </th>
   </tr>
 </table>
@@ -40,7 +40,6 @@ good job"></a> <img src="https://img.shields.io/badge/%E2%80%8E%20-addict-ffcc00
       <br>  in those skins most often ^^ </th>
   </tr>
 </table>
-<br>
       
           dni - proship/darkship, you make
                 "touching" jokes (you can int, just
