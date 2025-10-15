@@ -29,7 +29,7 @@ good job"></a> <img src="https://img.shields.io/badge/%E2%80%8E%20-addict-ffcc00
 
 <table align="center">
   <tr>
-    <th align="center" ><img width="380" src="https://web.archive.org/web/20091021165807if_/http://www.geocities.com/eugenefides28/Starry_divider.gif"><br><img src="https://gifcity.carrd.co/assets/images/gallery49/97eaaacd.gif?v=e3c0bc0f"> </th>
+    <th align="center" ><img width="380" src="https://web.archive.org/web/20091021165807if_/http://www.geocities.com/eugenefides28/Starry_divider.gif"></th>
   </tr>
   <tr>
     <th align="left">☆ Call me JG or Kitty ★ He/Him ☆ Autistic
@@ -44,7 +44,9 @@ good job"></a> <img src="https://img.shields.io/badge/%E2%80%8E%20-addict-ffcc00
           dni - proship/darkship, you make
                 "touching" jokes (you can int, just
                 don't make them around me pls),
-                ur like 12 or something
+                ur like 12 or something.
+                honestly idrc about dni just dont
+                be weird
           
           int - if you LOVE BIG BANG THEORY
                 if you LOVE BIG BANG THEORY
