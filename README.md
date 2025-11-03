@@ -1,5 +1,4 @@
 <p align="center">
-  <img height="60" src="https://64.media.tumblr.com/cf3543902dfba0acaac8afd6c6426780/7855348f07730b74-b6/s400x600/732ac04414092aa2db698728929f5865dcb1203b.pnj"><img src="https://i.picasion.com/gl/92/kOB1.gif" width="624" height="53" border="0"/><img height="60" src="https://64.media.tumblr.com/8c766c9a970c6776e68434a6d937ee63/7855348f07730b74-be/s400x600/15ac25adf851823ad7f7fda00c89ecb1bccf8a60.pnj">
   <img width="900" src="https://file.garden/Zp9noIad_WH59L9w/github/gooburggergurg" />
 </p>
 <img src="https://graphic.neocities.org/Fastfood_2.gif" align="left"><img src="https://graphic.neocities.org/tumblr_inline_p7sv6jskb71t78dpp_75sq.gif" align="left">
@@ -12,9 +11,9 @@ I could try..
 yeah go ahead and fuckin be a little bird, be a bird...... 
 chirp! 
 good job"></a> <img src="https://img.shields.io/badge/%E2%80%8E%20-addict-ffcc00?style=plastic&logo=ebay&logoSize=auto&labelColor=000098" title="i can't be living like this without a job bruh..."> <img src="https://custom-icon-badges.demolab.com/badge/CD%20collector-10b068?style=plastic&logo=issue-opened&logoColor=ffffff" title="guy who idolizes the 90s too much"> <img src="https://komarev.com/ghpvc/?username=jGbeans30&style=plastic&label=Cats+meowed&color=cf3a84"> <img src="https://img.shields.io/badge/I_just_wanna_fly,_put_your_arms_around_me_baby-ffffff?style=social&logo=riseup" title="Fly - Sugar Ray"></h1>
-<h3 align="center"><img src="https://64.media.tumblr.com/60b556a21b1e1d7b7e723ad233590c1d/1707a372e2fb7ddc-aa/s75x75_c1/4643537dcb7cc3bd818b3544ab934b27db937149.gifv">  "Why are you so obsessed with Halloween?" <i>"Halloween is COOL"</i> <img src="https://64.media.tumblr.com/a68ec50d71f7924abed16e3acd903c2a/1707a372e2fb7ddc-00/s75x75_c1/44ac5f6c67a8021d90dd489d8375aa3b96446ba4.gifv"></h3>
+<h3 align="center">"Welcome to Good Burger, home of the Good Burger, can I take your order?"</h3>
 <p align="center">
-  <img src="https://64.media.tumblr.com/b5ed993355fffed9476084353783253c/0a1976f702f6b001-a3/s1280x1920/b3e93080d7ad5e0f68c603520253e1cff5782b79.pnj">
+  <img src="https://gifcity.carrd.co/assets/images/gallery44/57677591.png?v=e3c0bc0f">
 </p>
 
 <table align="right">
@@ -64,11 +63,8 @@ good job"></a> <img src="https://img.shields.io/badge/%E2%80%8E%20-addict-ffcc00
   </tr>
 </table>
 
-<img src="https://64.media.tumblr.com/be9c37d5bb31788d8d95e25ad861ebe4/8680f2784c87222c-cc/s250x400/744e339fa8a9f8c86edd552f9df95f79acdb48b2.gifv" align="left">
-<img src="https://64.media.tumblr.com/bcf41583a1187f191f6eed0d9e8069f1/8680f2784c87222c-a8/s100x200/237ec301a4361393c34d3aa23a3c7d4bbd9be941.gifv" align="right">
-
 <p align="center">
-  <img width="600" src="https://64.media.tumblr.com/b5ed993355fffed9476084353783253c/0a1976f702f6b001-a3/s1280x1920/b3e93080d7ad5e0f68c603520253e1cff5782b79.pnj">
+  <img src="https://gifcity.carrd.co/assets/images/gallery44/57677591.png?v=e3c0bc0f">
 </p>
 
 <details align="center">
