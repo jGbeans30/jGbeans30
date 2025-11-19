@@ -21,7 +21,7 @@ good job"></a> <img src="https://img.shields.io/badge/%E2%80%8E%20-addict-ffcc00
     <th>
       
 ![CD](https://graphic.neocities.org/cdisk.gif)![currently playing](https://spotify-github-profile.kittinanx.com/api/view?uid=fluffyfireworks&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=e0c826&bar_color_cover=false)<br>![Recently played](https://lastfm-recently-played.vercel.app/api?user=JG1847020&count=6&width=390&header_style=compact_stats&loved=true&loved_style=3&maxage=60&bg_color=085859)<br>
-<img width="390" src="https://steam-current-game.vercel.app/api/?steamids=76561199521157381"><br><img src="https://steam-readme-stats.uwu.gal/api/76561199521157381/stats/badge/playtime?format=hours_and_minutes&style=flat-square&color=8f8b0a&label_color=2b2a04" align="center"><img src="https://steam-readme-stats.uwu.gal/api/76561199521157381/stats/badge/games?style=flat-square&color=8f8b0a&label_color=2b2a04" align="center">
+<img width="390" src="https://steam-current-game.vercel.app/api/?steamids=76561199521157381"><br><img src="https://steam-readme-stats.uwu.gal/api/76561199521157381/stats/badge/playtime?format=total_hours&style=for-the-badge&color=8f8b0a&label_color=2b2a04" align="center"><img src="https://steam-readme-stats.uwu.gal/api/76561199521157381/stats/badge/games?style=for-the-badge&color=8f8b0a&label_color=2b2a04" align="center">
     </th>
   </tr>
 </table>
@@ -78,6 +78,13 @@ good job"></a> <img src="https://img.shields.io/badge/%E2%80%8E%20-addict-ffcc00
 <br><img src="https://jgifs.carrd.co/assets/images/gallery03/494a5120.png?v=a5b9d751"><img src="https://jgifs.carrd.co/assets/images/gallery03/340f979a.png?v=79f8391c"><img src="https://jgifs.carrd.co/assets/images/gallery03/9cada692.png?v=79f8391c"><img src="https://jgifs.carrd.co/assets/images/gallery03/e9f82378.png?v=79f8391c"><img src="https://jgifs.carrd.co/assets/images/gallery03/1b99b8fc.png?v=79f8391c"><img src="https://jgifs.carrd.co/assets/images/gallery03/dd61a149.png?v=79f8391c"><img src="https://jgifs.carrd.co/assets/images/gallery03/16facc65.png?v=79f8391c"><img src="https://jgifs.carrd.co/assets/images/gallery03/34cd92e5.png?v=79f8391c"><img src="https://jgifs.carrd.co/assets/images/gallery03/3797bab3.png?v=79f8391c"><img src="https://jgifs.carrd.co/assets/images/gallery03/54e3ef1f.png?v=79f8391c"><img src="https://jgifs.carrd.co/assets/images/gallery02/73a90006.png?v=79f8391c"><img src="https://jgifs.carrd.co/assets/images/gallery03/cc8d51d5.png?v=79f8391c"><img src="https://jgifs.carrd.co/assets/images/gallery02/54f36204.png?v=79f8391c">
 </p>
 
+</details>
+
+<details align="center" >
+  <summary><b>hi.</b></summary>
+
+<img width="500" src="https://file.garden/Zp9noIad_WH59L9w/github/hi." align="left"><img width="400" src="https://upload.wikimedia.org/wikipedia/en/a/a4/Yelowtape.jpg"><img width="200" src="https://upload.wikimedia.org/wikipedia/en/4/47/Barenaked_Ladies_-_Stunt.jpg"><img width="200" src="https://file.garden/Zp9noIad_WH59L9w/github/bugger"><img src="https://file.garden/Zp9noIad_WH59L9w/github/awwwwww">
+  
 </details>
 
 #
