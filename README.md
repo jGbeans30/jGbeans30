@@ -10,7 +10,7 @@ yeah are you gonna chirp?
 I could try.. 
 yeah go ahead and fuckin be a little bird, be a bird...... 
 chirp! 
-good job"></a> <img src="https://img.shields.io/badge/%E2%80%8E%20-addict-ffcc00?style=plastic&logo=ebay&logoSize=auto&labelColor=000098" title="i can't be living like this without a job bruh..."> <img src="https://custom-icon-badges.demolab.com/badge/CD%20collector-10b068?style=plastic&logo=issue-opened&logoColor=ffffff" title="guy who idolizes the 90s too much"> <img src="https://komarev.com/ghpvc/?username=jGbeans30&style=plastic&label=Cats+meowed&color=cf3a84"> <img src="https://img.shields.io/badge/I_just_wanna_fly,_put_your_arms_around_me_baby-ffffff?style=social&logo=riseup" title="Fly - Sugar Ray"></h1>
+good job"></a> <img src="https://img.shields.io/badge/%E2%80%8E%20-addict-ffcc00?style=plastic&logo=ebay&logoSize=auto&labelColor=000098" title="i CAN be living like dis cus i HAVE A JOB bruh!!!!!"> <img src="https://custom-icon-badges.demolab.com/badge/CD%20collector-10b068?style=plastic&logo=issue-opened&logoColor=ffffff" title="guy who idolizes the 90s too much"> <img src="https://komarev.com/ghpvc/?username=jGbeans30&style=plastic&label=Cats+meowed&color=cf3a84"> <img src="https://img.shields.io/badge/I_just_wanna_fly,_put_your_arms_around_me_baby-ffffff?style=social&logo=riseup" title="Fly - Sugar Ray"></h1>
 <h3 align="center">"Welcome to Good Burger, home of the Good Burger, can I take your order?"</h3>
 <p align="center">
   <img src="https://gifcity.carrd.co/assets/images/gallery49/11d94fa3.gif?v=e3c0bc0f">
