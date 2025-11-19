@@ -83,7 +83,7 @@ good job"></a> <img src="https://img.shields.io/badge/%E2%80%8E%20-addict-ffcc00
 <details align="center" >
   <summary><b>hi.</b></summary>
 
-<img width="500" src="https://file.garden/Zp9noIad_WH59L9w/github/hi." align="left"><img width="400" src="https://upload.wikimedia.org/wikipedia/en/a/a4/Yelowtape.jpg"><img width="200" src="https://upload.wikimedia.org/wikipedia/en/4/47/Barenaked_Ladies_-_Stunt.jpg"><img width="200" src="https://file.garden/Zp9noIad_WH59L9w/github/bugger"><img src="https://file.garden/Zp9noIad_WH59L9w/github/awwwwww">
+<img width="400" src="https://file.garden/Zp9noIad_WH59L9w/github/hi." align="left"><img width="350" src="https://upload.wikimedia.org/wikipedia/en/a/a4/Yelowtape.jpg"><img width="200" src="https://upload.wikimedia.org/wikipedia/en/4/47/Barenaked_Ladies_-_Stunt.jpg"><img width="200" src="https://file.garden/Zp9noIad_WH59L9w/github/bugger"><img src="https://file.garden/Zp9noIad_WH59L9w/github/awwwwww">
   
 </details>
 
