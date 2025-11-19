@@ -83,7 +83,7 @@ good job"></a> <img src="https://img.shields.io/badge/%E2%80%8E%20-addict-ffcc00
 <details align="center" >
   <summary><b>hi.</b></summary>
 
-<img width="400" src="https://file.garden/Zp9noIad_WH59L9w/github/hi." align="left"><img width="350" src="https://upload.wikimedia.org/wikipedia/en/a/a4/Yelowtape.jpg"><img width="200" src="https://upload.wikimedia.org/wikipedia/en/4/47/Barenaked_Ladies_-_Stunt.jpg"><img width="200" src="https://file.garden/Zp9noIad_WH59L9w/github/bugger"><img align="right" src="https://file.garden/Zp9noIad_WH59L9w/github/awwwwww"><img src="https://upload.wikimedia.org/wikipedia/en/2/2c/PinchMe_Single.jpg"><img width="300" src="https://www.ruicardo.com/wp-content/uploads/2020/11/evidenza_barenaked_ladies_pinch_me_5.jpg">
+<img width="400" src="https://file.garden/Zp9noIad_WH59L9w/github/hi." align="left"><img width="350" src="https://upload.wikimedia.org/wikipedia/en/a/a4/Yelowtape.jpg"><img width="200" src="https://upload.wikimedia.org/wikipedia/en/4/47/Barenaked_Ladies_-_Stunt.jpg"><img width="200" src="https://file.garden/Zp9noIad_WH59L9w/github/bugger"><img align="right" src="https://file.garden/Zp9noIad_WH59L9w/github/awwwwww"><img src="https://upload.wikimedia.org/wikipedia/en/2/2c/PinchMe_Single.jpg"><img width="375" src="https://www.ruicardo.com/wp-content/uploads/2020/11/evidenza_barenaked_ladies_pinch_me_5.jpg">
   
 </details>
 
