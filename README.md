@@ -1,4 +1,8 @@
 <p align="center">
+<img src="http://i.picasion.com/gl/92/kY6O.gif">
+</p>
+
+<p align="center">
   <img width="900" src="https://file.garden/Zp9noIad_WH59L9w/github/gooburggergurg" />
 </p>
 <img src="https://graphic.neocities.org/Fastfood_2.gif" align="left"><img src="https://graphic.neocities.org/tumblr_inline_p7sv6jskb71t78dpp_75sq.gif" align="left">
@@ -13,7 +17,7 @@ chirp!
 good job"></a> <img src="https://img.shields.io/badge/%E2%80%8E%20-addict-ffcc00?style=plastic&logo=ebay&logoSize=auto&labelColor=000098" title="i CAN be living like dis cus i HAVE A JOB bruh!!!!!"> <img src="https://custom-icon-badges.demolab.com/badge/CD%20collector-10b068?style=plastic&logo=issue-opened&logoColor=ffffff" title="guy who idolizes the 90s too much"> <img src="https://komarev.com/ghpvc/?username=jGbeans30&style=plastic&label=Cats+meowed&color=cf3a84"> <img src="https://img.shields.io/badge/I_just_wanna_fly,_put_your_arms_around_me_baby-ffffff?style=social&logo=riseup" title="Fly - Sugar Ray"></h1>
 <h3 align="center">"Welcome to Good Burger, home of the Good Burger, can I take your order?"</h3>
 <p align="center">
-  <img src="https://gifcity.carrd.co/assets/images/gallery49/11d94fa3.gif?v=e3c0bc0f">
+  <img src="https://64.media.tumblr.com/3bd412b71566801531470eba2d20f447/26df2de9ea824f62-fa/s2048x3072/a493809a66a70e141262b09ec6969d3130de7333.pnj">
 </p>
 
 <table align="right">
@@ -64,7 +68,7 @@ good job"></a> <img src="https://img.shields.io/badge/%E2%80%8E%20-addict-ffcc00
 </table>
 
 <p align="center">
-  <img src="https://gifcity.carrd.co/assets/images/gallery44/57677591.png?v=e3c0bc0f">
+  <img src="https://64.media.tumblr.com/3bd412b71566801531470eba2d20f447/26df2de9ea824f62-fa/s2048x3072/a493809a66a70e141262b09ec6969d3130de7333.pnj">
 </p>
 
 <details align="center">
