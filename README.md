@@ -1,6 +1,6 @@
 <p align="center">
 <img width="100%" src="https://64.media.tumblr.com/3fa20ba29127c837622db1dedf3bd0d3/20ce9e4023ac5128-9f/s1280x1920/f2680de3af6925f7673903c5c09045004e9739dc.gifv"><br>
-<img src="http://i.picasion.com/gl/92/kY6O.gif">
+<img height="55" src="https://64.media.tumblr.com/d057878c5c963051bf25ab8d17c3b2f5/c62c30619d9931d0-13/s540x810/52173fd81ace5138372644f47e8b95c3df5fba01.pnj"><img src="http://i.picasion.com/gl/92/kY6O.gif"><img height="55" src="https://64.media.tumblr.com/b97dfa868d70b2f64fc059be873c4117/c18713a469db9bb3-72/s1280x1920/76b9f040a1506cc14ea7e63a96b165bbfd90c5b5.pnj">
 </p>
 
 <p align="center">
@@ -98,7 +98,10 @@ good job"></a> <img src="https://img.shields.io/badge/%E2%80%8E%20-addict-ffcc00
   
 </details>
 
-<img width="100%" src="https://64.media.tumblr.com/3fa20ba29127c837622db1dedf3bd0d3/20ce9e4023ac5128-9f/s1280x1920/f2680de3af6925f7673903c5c09045004e9739dc.gifv">
+<p align="center">
+<img width="100%" src="https://64.media.tumblr.com/3fa20ba29127c837622db1dedf3bd0d3/20ce9e4023ac5128-9f/s1280x1920/f2680de3af6925f7673903c5c09045004e9739dc.gifv"><br>
+<img width="8%" src="https://64.media.tumblr.com/b8fb7cb631ee2993e5bc59c20edd5c43/ee2276e6f3678b34-e3/s250x400/6c7eaf33dfea764b9d6ea95be7b56aac9c564620.gifv">
+</p>
 
 #
 
