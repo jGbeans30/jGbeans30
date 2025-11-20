@@ -1,4 +1,5 @@
 <p align="center">
+<img width="100%" src="https://64.media.tumblr.com/3fa20ba29127c837622db1dedf3bd0d3/20ce9e4023ac5128-9f/s1280x1920/f2680de3af6925f7673903c5c09045004e9739dc.gifv"><br>
 <img src="http://i.picasion.com/gl/92/kY6O.gif">
 </p>
 
@@ -15,7 +16,13 @@ I could try..
 yeah go ahead and fuckin be a little bird, be a bird...... 
 chirp! 
 good job"></a> <img src="https://img.shields.io/badge/%E2%80%8E%20-addict-ffcc00?style=plastic&logo=ebay&logoSize=auto&labelColor=000098" title="i CAN be living like dis cus i HAVE A JOB bruh!!!!!"> <img src="https://custom-icon-badges.demolab.com/badge/CD%20collector-10b068?style=plastic&logo=issue-opened&logoColor=ffffff" title="guy who idolizes the 90s too much"> <img src="https://komarev.com/ghpvc/?username=jGbeans30&style=plastic&label=Cats+meowed&color=cf3a84"> <img src="https://img.shields.io/badge/I_just_wanna_fly,_put_your_arms_around_me_baby-ffffff?style=social&logo=riseup" title="Fly - Sugar Ray"></h1>
-<h3 align="center">"Welcome to Good Burger, home of the Good Burger, can I take your order?"</h3>
+<p align="center">
+<img src="https://64.media.tumblr.com/3fa20ba29127c837622db1dedf3bd0d3/20ce9e4023ac5128-9f/s1280x1920/f2680de3af6925f7673903c5c09045004e9739dc.gifv"><br>
+<img src="https://64.media.tumblr.com/1b628f1e1ac6b15498d905111a357a23/d9516b49c7ab9321-d3/s250x400/1760bbc739992ca5b5c2969b8a86120214a8cf93.gifv">
+<img align="left" src="https://64.media.tumblr.com/76935b494055b83271cf3128a227ea34/17f7e3063e4547c7-c5/s250x400/dbb525771ff61137c383c6afc6ee1110d3757975.gifv">
+<img align="right" src="https://64.media.tumblr.com/c23883d3afa05aed94c2f01d10e3d42e/17f7e3063e4547c7-27/s250x400/cd519440a9f5ae079424613cca277a8147b342c2.gifv">
+</p>
+<h3 align="center"><i>"Jingle bells, Batman smells, Robin layed an egg!"<br>"The Batmobile lost its wheel and the Joker got away!!!"</i></h3>
 <p align="center">
   <img src="https://64.media.tumblr.com/3bd412b71566801531470eba2d20f447/26df2de9ea824f62-fa/s2048x3072/a493809a66a70e141262b09ec6969d3130de7333.pnj">
 </p>
@@ -63,12 +70,12 @@ good job"></a> <img src="https://img.shields.io/badge/%E2%80%8E%20-addict-ffcc00
     </th>
   </tr>
   <tr>
-    <th align="center"><img src="https://gifcity.carrd.co/assets/images/gallery49/97eaaacd.gif?v=e3c0bc0f"> Fun Fact: Literally Me <img src="https://gifcity.carrd.co/assets/images/gallery49/97eaaacd.gif?v=e3c0bc0f"><br><img width="380" src="https://web.archive.org/web/20091021165807if_/http://www.geocities.com/eugenefides28/Starry_divider.gif"></th>
+    <th align="center"><img height="20" src="https://64.media.tumblr.com/ff78999100d5f4d5823a054aa66f4108/e01413f6e4775148-0e/s250x400/682ea3b7ede017095d612240c2a2d636122a9dd9.pnj"> Fun Fact: Literally Me <img height="20" src="https://64.media.tumblr.com/ff78999100d5f4d5823a054aa66f4108/e01413f6e4775148-0e/s250x400/682ea3b7ede017095d612240c2a2d636122a9dd9.pnj"><br><img width="380" src="https://web.archive.org/web/20091021165807if_/http://www.geocities.com/eugenefides28/Starry_divider.gif"></th>
   </tr>
 </table>
 
 <p align="center">
-  <img src="https://64.media.tumblr.com/3bd412b71566801531470eba2d20f447/26df2de9ea824f62-fa/s2048x3072/a493809a66a70e141262b09ec6969d3130de7333.pnj">
+  <img src="https://64.media.tumblr.com/1ceb2e8b7356fe24fec6f21522586e46/26df2de9ea824f62-63/s2048x3072/38039523a2a945f79a6b514c23f82b4144e8ab2f.pnj">
 </p>
 
 <details align="center">
@@ -90,6 +97,8 @@ good job"></a> <img src="https://img.shields.io/badge/%E2%80%8E%20-addict-ffcc00
 <img width="425" src="https://file.garden/Zp9noIad_WH59L9w/github/hi." align="left"><img width="350" src="https://upload.wikimedia.org/wikipedia/en/a/a4/Yelowtape.jpg"><img width="200" src="https://upload.wikimedia.org/wikipedia/en/4/47/Barenaked_Ladies_-_Stunt.jpg"><img width="200" src="https://file.garden/Zp9noIad_WH59L9w/github/bugger"><img width="400" height="400" align="right" src="https://file.garden/Zp9noIad_WH59L9w/github/awwwwww"><img src="https://upload.wikimedia.org/wikipedia/en/2/2c/PinchMe_Single.jpg"><img width="400" src="https://www.ruicardo.com/wp-content/uploads/2020/11/evidenza_barenaked_ladies_pinch_me_6.jpg"><img src="https://static.tvtropes.org/pmwiki/pub/images/discord_by_bronyb34r-d4upxmc_-_copy_1744.png"><img src="https://file.garden/Zp9noIad_WH59L9w/github/jerray"><img width="200" src="https://file.garden/Zp9noIad_WH59L9w/github/chair-png-9.png"><img src="https://file.garden/Zp9noIad_WH59L9w/github/when_you_at_brunhc">
   
 </details>
+
+<img width="100%" src="https://64.media.tumblr.com/3fa20ba29127c837622db1dedf3bd0d3/20ce9e4023ac5128-9f/s1280x1920/f2680de3af6925f7673903c5c09045004e9739dc.gifv">
 
 #
 
