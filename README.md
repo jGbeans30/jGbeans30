@@ -23,6 +23,10 @@ good job"></a> <img src="https://img.shields.io/badge/%E2%80%8E%20-addict-ffcc00
 <img align="right" src="https://64.media.tumblr.com/c23883d3afa05aed94c2f01d10e3d42e/17f7e3063e4547c7-27/s250x400/cd519440a9f5ae079424613cca277a8147b342c2.gifv">
 </p>
 <h3 align="center"><i>"Jingle bells, Batman smells, Robin layed an egg!"<br>"The Batmobile lost its wheel and the Joker got away!!!"</i></h3>
+<details align="center">
+  <summary><b>checks behind the curtain for santa claus...</b></summary>
+<img src="https://file.garden/Zp9noIad_WH59L9w/github/chechksbehingcurtanforcasdhscalouse">
+</details>
 <p align="center">
   <img src="https://64.media.tumblr.com/3bd412b71566801531470eba2d20f447/26df2de9ea824f62-fa/s2048x3072/a493809a66a70e141262b09ec6969d3130de7333.pnj">
 </p>
