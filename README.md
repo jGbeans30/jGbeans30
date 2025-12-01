@@ -1,11 +1,10 @@
 
 <details align="center">
 <summary><b>CLICK TO VEIW TREE</b></summary>
-
-undecorated right now! go to the strawpage and draw an ornament!
-
+<p>
+undecorated right now! go to the strawpage and draw an ornament!<br>
 <img src="https://file.garden/Zp9noIad_WH59L9w/github/JGchristmas_0">
-
+</p>
 </details>
 
 <p align="center">
