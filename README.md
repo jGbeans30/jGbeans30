@@ -1,6 +1,6 @@
 
 <details align="center">
-<summary><h3>CLICK TO VEIW TREE</h3></summary>
+<summary><b>CLICK TO VEIW TREE</b></summary>
 
 nothing here yet...
 
@@ -91,7 +91,7 @@ good job"></a> <img src="https://img.shields.io/badge/%E2%80%8E%20-addict-ffcc00
 </p>
 
 <details align="center">
-  <summary><h3>Blinkies Collection<br>FLASHING WARNING</h3></summary>
+  <summary><b>Blinkies Collection<br>FLASHING WARNING</b></summary>
 
 <p align="center">
 <img src="https://supplies.ju.mp/assets/images/gallery14/1cc22fda.png?v=9163b103"><img src="https://web.archive.org/web/20091021132205im_/http://geocities.com/chrissyhanson3/dalecar.gif"><img src="https://supplies.ju.mp/assets/images/gallery14/fdd7972c.png?v=9163b103">
