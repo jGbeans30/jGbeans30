@@ -1,4 +1,5 @@
 <p align="center">
+<img width="100%" src="https://64.media.tumblr.com/3fa20ba29127c837622db1dedf3bd0d3/20ce9e4023ac5128-9f/s1280x1920/f2680de3af6925f7673903c5c09045004e9739dc.gifv"><br><br>
 <a href="https://averyjgchristmas.straw.page"><img src="https://custom-icon-badges.demolab.com/badge/DRAW%20AN%20ORNAMENT-2c7d2c?style=for-the-badge&logo=gift"></a>
 </p>
 <details align="center">
@@ -10,7 +11,6 @@ undecorated right now! go to the strawpage and draw an ornament!<br>
 </details>
 
 <p align="center">
-<img width="100%" src="https://64.media.tumblr.com/3fa20ba29127c837622db1dedf3bd0d3/20ce9e4023ac5128-9f/s1280x1920/f2680de3af6925f7673903c5c09045004e9739dc.gifv"><br>
 <img height="55" src="https://64.media.tumblr.com/d057878c5c963051bf25ab8d17c3b2f5/c62c30619d9931d0-13/s540x810/52173fd81ace5138372644f47e8b95c3df5fba01.pnj"><img src="http://i.picasion.com/gl/92/kY6O.gif"><img height="55" src="https://64.media.tumblr.com/b97dfa868d70b2f64fc059be873c4117/c18713a469db9bb3-72/s1280x1920/76b9f040a1506cc14ea7e63a96b165bbfd90c5b5.pnj">
 </p>
 
