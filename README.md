@@ -2,7 +2,9 @@
 <details align="center">
 <summary><b>CLICK TO VEIW TREE</b></summary>
 
-nothing here yet...
+undecorated right now! go to the strawpage and draw an ornament!
+
+<img src="https://file.garden/Zp9noIad_WH59L9w/github/JGchristmas_0">
 
 </details>
 
