@@ -5,8 +5,8 @@
 <details align="center">
 <summary><b>CLICK TO VEIW TREE</b></summary>
 <p>
-undecorated right now! go to the strawpage and draw an ornament!<br>
-<img src="https://file.garden/Zp9noIad_WH59L9w/github/JGchristmas_0">
+THANK YOU ALL FOR YOUR DRAWINGS!!!<br>MERRY CHRISTMAS!!!<BR>
+<img src="https://file.garden/Zp9noIad_WH59L9w/github/JGchristmas_1">
 </p>
 </details>
 
