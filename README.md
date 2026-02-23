@@ -1,18 +1,3 @@
-<p align="center">
-<img width="100%" src="https://64.media.tumblr.com/3fa20ba29127c837622db1dedf3bd0d3/20ce9e4023ac5128-9f/s1280x1920/f2680de3af6925f7673903c5c09045004e9739dc.gifv"><br><br>
-<a href="https://averyjgchristmas.straw.page"><img src="https://custom-icon-badges.demolab.com/badge/DRAW%20AN%20ORNAMENT-2c7d2c?style=for-the-badge&logo=gift"></a>
-</p>
-<details align="center">
-<summary><b>CLICK TO VEIW TREE</b></summary>
-<p>
-THANK YOU ALL FOR YOUR DRAWINGS!!!<br>MERRY CHRISTMAS!!!<BR>
-<img src="https://file.garden/Zp9noIad_WH59L9w/github/JGchristmas_1">
-</p>
-</details>
-
-<p align="center">
-<img height="55" src="https://64.media.tumblr.com/d057878c5c963051bf25ab8d17c3b2f5/c62c30619d9931d0-13/s540x810/52173fd81ace5138372644f47e8b95c3df5fba01.pnj"><img src="http://i.picasion.com/gl/92/kY6O.gif"><img height="55" src="https://64.media.tumblr.com/b97dfa868d70b2f64fc059be873c4117/c18713a469db9bb3-72/s1280x1920/76b9f040a1506cc14ea7e63a96b165bbfd90c5b5.pnj">
-</p>
 
 <p align="center">
   <img width="900" src="https://file.garden/Zp9noIad_WH59L9w/github/gooburggergurg" />
@@ -27,19 +12,11 @@ I could try..
 yeah go ahead and fuckin be a little bird, be a bird...... 
 chirp! 
 good job"></a> <img src="https://img.shields.io/badge/%E2%80%8E%20-addict-ffcc00?style=plastic&logo=ebay&logoSize=auto&labelColor=000098" title="i CAN be living like dis cus i HAVE A JOB bruh!!!!!"> <img src="https://custom-icon-badges.demolab.com/badge/CD%20collector-10b068?style=plastic&logo=issue-opened&logoColor=ffffff" title="guy who idolizes the 90s too much"> <img src="https://komarev.com/ghpvc/?username=jGbeans30&style=plastic&label=Cats+meowed&color=cf3a84"> <img src="https://img.shields.io/badge/I_just_wanna_fly,_put_your_arms_around_me_baby-ffffff?style=social&logo=riseup" title="Fly - Sugar Ray"></h1>
+
+<h3 align="center"><i>"Burger good yum furm"</i></h3>
+
 <p align="center">
-<img src="https://64.media.tumblr.com/3fa20ba29127c837622db1dedf3bd0d3/20ce9e4023ac5128-9f/s1280x1920/f2680de3af6925f7673903c5c09045004e9739dc.gifv"><br>
-<img src="https://64.media.tumblr.com/1b628f1e1ac6b15498d905111a357a23/d9516b49c7ab9321-d3/s250x400/1760bbc739992ca5b5c2969b8a86120214a8cf93.gifv">
-<img align="left" src="https://64.media.tumblr.com/76935b494055b83271cf3128a227ea34/17f7e3063e4547c7-c5/s250x400/dbb525771ff61137c383c6afc6ee1110d3757975.gifv">
-<img align="right" src="https://64.media.tumblr.com/c23883d3afa05aed94c2f01d10e3d42e/17f7e3063e4547c7-27/s250x400/cd519440a9f5ae079424613cca277a8147b342c2.gifv">
-</p>
-<h3 align="center"><i>"Jingle bells, Batman smells, Robin layed an egg!"<br>"The Batmobile lost its wheel and the Joker got away!!!"</i></h3>
-<details align="center">
-  <summary><b>checks behind the curtain for santa claus...</b></summary>
-<img src="https://file.garden/Zp9noIad_WH59L9w/github/chechksbehingcurtanforcasdhscalouse">
-</details>
-<p align="center">
-  <img src="https://64.media.tumblr.com/3bd412b71566801531470eba2d20f447/26df2de9ea824f62-fa/s2048x3072/a493809a66a70e141262b09ec6969d3130de7333.pnj">
+  <img src="https://gifcity.carrd.co/assets/images/gallery49/11d94fa3.gif?v=49efbe4c">
 </p>
 
 <table align="right">
@@ -90,7 +67,7 @@ good job"></a> <img src="https://img.shields.io/badge/%E2%80%8E%20-addict-ffcc00
 </table>
 
 <p align="center">
-  <img src="https://64.media.tumblr.com/1ceb2e8b7356fe24fec6f21522586e46/26df2de9ea824f62-63/s2048x3072/38039523a2a945f79a6b514c23f82b4144e8ab2f.pnj">
+  <img src="https://gifcity.carrd.co/assets/images/gallery49/11d94fa3.gif?v=49efbe4c">
 </p>
 
 <details align="center">
@@ -113,10 +90,13 @@ good job"></a> <img src="https://img.shields.io/badge/%E2%80%8E%20-addict-ffcc00
   
 </details>
 
-<p align="center">
-<img width="100%" src="https://64.media.tumblr.com/3fa20ba29127c837622db1dedf3bd0d3/20ce9e4023ac5128-9f/s1280x1920/f2680de3af6925f7673903c5c09045004e9739dc.gifv"><br>
-<img width="8%" src="https://64.media.tumblr.com/b8fb7cb631ee2993e5bc59c20edd5c43/ee2276e6f3678b34-e3/s250x400/6c7eaf33dfea764b9d6ea95be7b56aac9c564620.gifv">
+<details align="center">
+<summary><b>Christmas Tree</b></summary>
+<p>
+Sorry for not getting everybody's drawings up on time <br>i love everything you guys have sent me but my <br>burnout was awful at the end of december<BR>
+<img src="https://file.garden/Zp9noIad_WH59L9w/github/JGchristmas_1">
 </p>
+</details>
 
 #
 
