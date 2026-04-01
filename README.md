@@ -23,8 +23,7 @@ good job"></a> <img src="https://img.shields.io/badge/%E2%80%8E%20-addict-ffcc00
   <tr>
     <th>
       
-![CD](https://graphic.neocities.org/cdisk.gif)![currently playing](https://spotify-github-profile.kittinanx.com/api/view?uid=fluffyfireworks&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=e0c826&bar_color_cover=false)<br>![Recently played](https://lastfm-recently-played.vercel.app/api?user=JG1847020&count=6&width=390&header_style=compact_stats&loved=true&loved_style=3&maxage=60&bg_color=085859)<br>
-<img width="390" src="https://steam-current-game.vercel.app/api/?steamids=76561199521157381"><br><img src="https://steam-readme-stats.uwu.gal/api/76561199521157381/stats/badge/playtime?format=total_hours&style=for-the-badge&color=8f8b0a&label_color=2b2a04" align="center"><img src="https://steam-readme-stats.uwu.gal/api/76561199521157381/stats/badge/games?style=for-the-badge&color=8f8b0a&label_color=2b2a04" align="center">
+![CD](https://graphic.neocities.org/cdisk.gif)![currently playing](https://spotify-github-profile.kittinanx.com/api/view?uid=fluffyfireworks&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=e0c826&bar_color_cover=false)<br>![Recently played](https://lastfm-recently-played.vercel.app/api?user=JG1847020&count=8&width=390&header_style=compact_stats&loved=true&loved_style=3&maxage=60&bg_color=085859)
     </th>
   </tr>
 </table>
@@ -100,4 +99,4 @@ Sorry for not getting everybody's drawings up on time <br>i love everything you 
 
 #
 
-<a href="https://github.com/kittinan/spotify-github-profile"><kbd>spotify embed</kbd></a><a href="https://github.com/JeffreyCA/lastfm-recently-played-readme"><kbd>last.fm embed</kbd></a><a href="https://shields.io/badges"><kbd>button maker</kbd></a><a href="https://github.com/j4ckofalltrades/steam-current-game"><kbd>steam in-game</kbd></a><a href="https://github.com/ijsbol/steam-readme-stats"><kbd>steam stats</kbd></a>
+<a href="https://github.com/kittinan/spotify-github-profile"><kbd>spotify embed</kbd></a><a href="https://github.com/JeffreyCA/lastfm-recently-played-readme"><kbd>last.fm embed</kbd></a><a href="https://shields.io/badges"><kbd>button maker</kbd></a>
