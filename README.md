@@ -23,7 +23,7 @@ good job"></a> <img src="https://img.shields.io/badge/%E2%80%8E%20-addict-ffcc00
   <tr>
     <th>
       
-![CD](https://graphic.neocities.org/cdisk.gif)![currently playing](https://spotify-github-profile.kittinanx.com/api/view?uid=fluffyfireworks&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=e0c826&bar_color_cover=false)<br>![Recently played](https://lastfm-recently-played.vercel.app/api?user=JG1847020&count=8&width=390&header_style=compact_stats&loved=true&loved_style=3&maxage=60&bg_color=085859)
+![CD](https://graphic.neocities.org/cdisk.gif)![currently playing](https://spotify-github-profile.kittinanx.com/api/view?uid=fluffyfireworks&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=e0c826&bar_color_cover=false)<br>![Recently played](https://lastfm-recently-played.vercel.app/api?user=JG1847020&count=9&width=390&header_style=compact_stats&loved=true&loved_style=3&maxage=60&bg_color=085859)
     </th>
   </tr>
 </table>
@@ -33,12 +33,15 @@ good job"></a> <img src="https://img.shields.io/badge/%E2%80%8E%20-addict-ffcc00
     <th align="center" ><img width="380" src="https://web.archive.org/web/20091021165807if_/http://www.geocities.com/eugenefides28/Starry_divider.gif"></th>
   </tr>
   <tr>
-    <th align="left">☆ Call me JG or Kitty ★ He/Him ☆ Autistic
-      <br>★ I'm beautiful and everybody should give me a kiss
-      <br>☆ c + h is ok!!! I mostly hide lol
-      <br>★ Usually at Docks, the Bakery, or with Friends!!!
-      <br>☆ Huge Big Bang Theory and BNL fan, you'll find me
-      <br>  in those skins most often ^^ </th>
+    <th align="left">☆ Call me JG or Kitty!! ☆ He/Him 
+      <br>★ Autistic, so I'm going to be awkward even if 
+      <br>  we're friends, sorry <3
+      <br>☆ usually chatting in whispers or party, but don't be 
+      <br> scared to talk to me! I don't bite :J
+      <br>★ Huge Big Bang Theory and BNL fan, you'll find me
+      <br>  in those skins most often ^^
+      <br>☆ lowkey been a little depressed lately, sorry if I'm
+      <br>  quiet whn u try to talk to me #DoingMyBest</th>
   </tr>
 </table>
       
