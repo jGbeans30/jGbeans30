@@ -11,7 +11,7 @@ yeah are you gonna chirp?
 I could try.. 
 yeah go ahead and fuckin be a little bird, be a bird...... 
 chirp! 
-good job"></a> <img src="https://img.shields.io/badge/%E2%80%8E%20-addict-ffcc00?style=plastic&logo=ebay&logoSize=auto&labelColor=000098" title="i CANNOT BE LIVING LIKE THIS I JUST LOST MY JOB BRUH!!!"> <img src="https://custom-icon-badges.demolab.com/badge/CD%20collector-10b068?style=plastic&logo=issue-opened&logoColor=ffffff" title="guy who idolizes the 90s too much"> <img src="https://komarev.com/ghpvc/?username=jGbeans30&style=plastic&label=Cats+meowed&color=cf3a84"> <img src="https://img.shields.io/badge/I_just_wanna_fly,_put_your_arms_around_me_baby-ffffff?style=social&logo=riseup" title="Fly - Sugar Ray"></h1>
+good job"></a> <img src="https://img.shields.io/badge/%E2%80%8E%20-addict-ffcc00?style=plastic&logo=ebay&logoSize=auto&labelColor=000098" title="i CANNOT BE LIVING LIKE THIS I JUST LOST MY JOB BRUH!!!"> <img src="https://custom-icon-badges.demolab.com/badge/CD%20collector-10b068?style=plastic&logo=issue-opened&logoColor=ffffff" title="guy who idolizes the 90s too much"> <img src="https://komarev.com/ghpvc/?username=jGbeans30&style=plastic&label=gay+panzees&color=cf3a84"> <img src="https://img.shields.io/badge/I_just_wanna_fly,_put_your_arms_around_me_baby-ffffff?style=social&logo=riseup" title="Fly - Sugar Ray"></h1>
 
 <h3 align="center"><i>"C'mon, you know I got that Jimmy Fallon in me..."</i></h3>
 
