@@ -53,8 +53,8 @@ good job"></a> <img src="https://img.shields.io/badge/%E2%80%8E%20-addict-ffcc00
                 be weird
           
           int - if you LOVE BIG BANG THEORY
-                if you LOVE BIG BANG THEORY
-                if you LOVE BIG BANG THEORY
+                if you LOVE THE BARENAKED LADIES
+                if you LOVE BREAKING BAD/BETTER CALL SAUL
 
 
 <table align="center">
