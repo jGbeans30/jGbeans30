@@ -80,7 +80,7 @@ also hello to whoever is looking at my chopped ass code *waves and dances and sh
       <img height="50" src="https://media1.tenor.com/m/gtb6hE7E064AAAAd/blues-brothers-illinois-state-police.gif">
     </th>
     <th><details>
-      <summary>Intrests</summary>
+      <summary>Interests</summary>
       <img align="left" height="70" src="https://upload.wikimedia.org/wikipedia/en/a/a4/Yelowtape.jpg"><p align="left"><i>Main + Current</i><br>☆☆☆Big Bang Theory ♫Barenaked Ladies ☆Breaking Bad / Better Call Saul ♫Reel Big Fish ‣Perfect Person (Millyslop 💸)</p>
       <img align="right" height="70" src="https://media1.tenor.com/m/uCCxEkUyKHoAAAAd/thinking-sea.gif"><p align="left"><i>More Buuullshiiittt</i><br>☆Seinfeld ☆SpongeBob ☆MLP:FiM ☆12 oz. Mouse ♫PRIMUS ♫Limp Bizkit ♫Weird Al ♫The Ramones ♫Ween ♫TPOTUSOA ♫Neil Cicierega ♫CAKE ♫Smash Mouth ♫Rick Astley ‣ENA ‣Jerma985 ‣GMM / Mythical Kitchen ‣Pretty Much It (GO TIGERS!!!) ‣Cscoop ‣Smii7y<br>★I also love Will Ferrell and everything he does he's literally so cute git away from meeee</p>
       <img height="140" src="https://www.ruicardo.com/wp-content/uploads/2020/11/evidenza_barenaked_ladies_pinch_me_6.jpg">
