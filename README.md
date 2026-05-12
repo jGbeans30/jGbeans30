@@ -66,21 +66,24 @@ also hello to whoever is looking at my chopped ass code *waves and dances and sh
         <br>You make "touching" jokes (int is fine just don't say them around me)
         <br>You're prone to dropping or blocking friends on a whim without discussion, I just can't handle that in my life right now
         <br>12 and under (isn't this game 13+ anyway... or am I imagining that...)
-        <br><br>DNI isn't strict I really don't have a problem about most things let's literally be BFFs
+        <br><br>DNI isn't strict I really don't have a problem about most things
       </details>
       <img height="50" src="https://media1.tenor.com/m/g0Sj4FikcEwAAAAd/blues-brothers-bluesmobile.gif">
     </th>
     <th><details>
         <summary>BYI</summary>
-        over 18, under 25 (don't feel like giving out my age unless close, internet safety 101)
+        <p>over 18, under 25 (don't feel like giving out my age unless close, internet safety 101)
         <br>Cuddling does NOT mean ship I've seen some ppl tweak out about that but usually I'm just platonic with party or friends it's NOT that serious!!!
-        <br>Sometimes when I get too high I start buggin and get a touch trigger idk why that happens but if I'm being very specific about interacting or moving or sitting positions pls be nice XP
+        <br>My memory is terrible and I forget to take friend notes most the time, if we int more than once and I don't remember you I'm sorry I'm literally a grandpa with dementia
+        <br>Sometimes when I get too high I start buggin and get a touch trigger idk why that happens but if I'm being very specific about interacting or moving or sitting positions pls be nice XP</p>
       </details>
       <img height="50" src="https://media1.tenor.com/m/gtb6hE7E064AAAAd/blues-brothers-illinois-state-police.gif">
     </th>
     <th><details>
       <summary>Intrests</summary>
-      wip uuughhhh i'm bored
+      <img align="left" height="70" src="https://upload.wikimedia.org/wikipedia/en/a/a4/Yelowtape.jpg"><p align="left"><i>Main + Current</i><br>☆☆☆Big Bang Theory ♫Barenaked Ladies ☆Breaking Bad / Better Call Saul ♫Reel Big Fish ‣Perfect Person (Millyslop 💸)</p>
+      <img align="right" height="70" src="https://media1.tenor.com/m/uCCxEkUyKHoAAAAd/thinking-sea.gif"><p align="left"><i>More Buuullshiiittt</i><br>☆Seinfeld ☆SpongeBob ☆MLP:FiM ☆12 oz. Mouse ♫PRIMUS ♫Limp Bizkit ♫Weird Al ♫The Ramones ♫Ween ♫TPOTUSOA ♫Neil Cicierega ♫CAKE ♫Smash Mouth ♫Rick Astley ‣ENA ‣Jerma985 ‣GMM / Mythical Kitchen ‣Pretty Much It (GO TIGERS!!!) ‣Cscoop ‣Smii7y<br>★I also love Will Ferrell and everything he does he's literally so cute git away from meeee</p>
+      <img height="140" src="https://www.ruicardo.com/wp-content/uploads/2020/11/evidenza_barenaked_ladies_pinch_me_6.jpg">
       </details>
       <img height="50" src="https://media1.tenor.com/m/FiOxENgKlSoAAAAd/the-blues-brothers-red-light.gif">
     </th>
