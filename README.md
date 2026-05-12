@@ -47,7 +47,7 @@ also hello to whoever is looking at my chopped ass code *waves and dances and sh
     <th>
 <img width="114" src="https://file.garden/Zp9noIad_WH59L9w/github/xX_5wagMa5ter9000_Xx"><img width="123" src="https://file.garden/Zp9noIad_WH59L9w/github/detachable_peeeeenisx3"><img width="142" src="https://file.garden/Zp9noIad_WH59L9w/github/it_me_kittyx3">
 <br>
-<img width="135" src="https://file.garden/Zp9noIad_WH59L9w/github/jimmyyyyx3">
+<img width="126" src="https://file.garden/Zp9noIad_WH59L9w/github/maroonx3"><img width="135" src="https://file.garden/Zp9noIad_WH59L9w/github/jimmyyyyx3">
     </th>
   </tr>
   <tr>
