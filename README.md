@@ -63,7 +63,7 @@ also hello to whoever is looking at my chopped ass code *waves and dances and sh
     <th><details>
         <summary>DNI</summary>
         Proship/darkship
-        <br>You make "touching" jokes (int is fine just don't say them around me)
+        <br>You make "touching" jokes (int is fine just don't say that around me)
         <br>You're prone to dropping or blocking friends on a whim without discussion, I just can't handle that in my life right now
         <br>12 and under (isn't this game 13+ anyway... or am I imagining that...)
         <br><br>DNI isn't strict I really don't have a problem about most things
