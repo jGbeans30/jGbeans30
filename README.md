@@ -24,7 +24,7 @@ also hello to whoever is looking at my chopped ass code *waves and dances and sh
   </tr>
 </table>
 
-<table align="left">
+<table align="center">
   <tr>
     <th align="center" ><img width="380" src="https://web.archive.org/web/20091021165807if_/http://www.geocities.com/eugenefides28/Starry_divider.gif"></th>
   </tr>
@@ -42,7 +42,7 @@ also hello to whoever is looking at my chopped ass code *waves and dances and sh
 </table>
 
 
-<table align="left">
+<table align="center">
   <tr>
     <th>
 <img width="114" src="https://file.garden/Zp9noIad_WH59L9w/github/xX_5wagMa5ter9000_Xx"><img width="123" src="https://file.garden/Zp9noIad_WH59L9w/github/detachable_peeeeenisx3"><img width="142" src="https://file.garden/Zp9noIad_WH59L9w/github/it_me_kittyx3">
@@ -55,7 +55,28 @@ also hello to whoever is looking at my chopped ass code *waves and dances and sh
   </tr>
 </table>
 
-<kbd>remaking dis a lil bit dont mind me</kbd>
+<table align="center">
+  <tr>
+    <th>
+      <details>
+        <summary>DNI</summary>
+        Proship/darkship
+        <br>You make "touching" jokes (int is fine just don't say them around me)
+        <br>You're prone to dropping or blocking friends on a whim without discussion, I just can't handle that in my life right now
+        <br>12 and under (isn't this game 13+ anyway... or am I imagining that...)
+        <br><br>DNI isn't strict I really don't have a problem about most things let's literally be BFFs
+      </details>
+    </th>
+    <th>
+      <details>
+        <summary>BYI</summary>
+        over 18, under 25 (still in the habit of never giving out my age even when I'm grown but that's like internet safety 101 guys lowkey)
+        <br>Cuddling does NOT mean ship I've seen some ppl tweak out about that but usually I'm just platonic with party or friends it's NOT that serious!!!
+        <br>Sometimes when I get too high I start buggin and get a touch trigger idk why that happens but if I'm being very specific about interacting or moving or sitting positions pls be nice XP
+      </details>
+    </th>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://gifcity.carrd.co/assets/images/gallery49/11d94fa3.gif?v=49efbe4c">
@@ -81,13 +102,6 @@ also hello to whoever is looking at my chopped ass code *waves and dances and sh
   
 </details>
 
-<details align="center">
-<summary><b>Christmas Tree</b></summary>
-<p>
-Sorry for not getting everybody's drawings up on time <br>i love everything you guys have sent me but my <br>burnout was awful at the end of december<BR>
-<img src="https://file.garden/Zp9noIad_WH59L9w/github/JGchristmas_1">
-</p>
-</details>
 
 #
 
