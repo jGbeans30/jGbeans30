@@ -53,7 +53,7 @@ also hello to whoever is looking at my chopped ass code *waves and dances and sh
   </tr>
 </table>
 
-remaking dis a lil bit dont mind me
+<kbd>remaking dis a lil bit dont mind me</kbd>
 
 <p align="center">
   <img src="https://gifcity.carrd.co/assets/images/gallery49/11d94fa3.gif?v=49efbe4c">
