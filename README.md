@@ -87,10 +87,6 @@ also hello to whoever is looking at my chopped ass code *waves and dances and sh
   </tr>
 </table>
 
-<p align="center">
-  <img src="https://gifcity.carrd.co/assets/images/gallery49/11d94fa3.gif?v=49efbe4c">
-</p>
-
 <details align="center">
   <summary><b>Blinkies Collection<br>FLASHING WARNING</b></summary>
 
@@ -103,6 +99,10 @@ also hello to whoever is looking at my chopped ass code *waves and dances and sh
 </p>
 
 </details>
+
+<p align="center">
+  <img src="https://gifcity.carrd.co/assets/images/gallery49/11d94fa3.gif?v=49efbe4c">
+</p>
 
 <details align="center" >
   <summary><b>hi.</b></summary>
