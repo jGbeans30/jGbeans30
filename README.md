@@ -54,14 +54,13 @@ also hello to whoever is looking at my chopped ass code *waves and dances and sh
     </th>
   </tr>
   <tr>
-    <th align="center"><img height="20" src="https://64.media.tumblr.com/ff78999100d5f4d5823a054aa66f4108/e01413f6e4775148-0e/s250x400/682ea3b7ede017095d612240c2a2d636122a9dd9.pnj"> Fun Fact: Literally Me <img height="20" src="https://64.media.tumblr.com/ff78999100d5f4d5823a054aa66f4108/e01413f6e4775148-0e/s250x400/682ea3b7ede017095d612240c2a2d636122a9dd9.pnj"><br><img width="380" src="https://web.archive.org/web/20091021165807if_/http://www.geocities.com/eugenefides28/Starry_divider.gif"></th>
+    <th align="center"> Fun Fact: Literally Me <br><img width="380" src="https://web.archive.org/web/20091021165807if_/http://www.geocities.com/eugenefides28/Starry_divider.gif"></th>
   </tr>
 </table>
 
 <table align="center">
   <tr>
-    <th>
-      <details>
+    <th><details>
         <summary>DNI</summary>
         Proship/darkship
         <br>You make "touching" jokes (int is fine just don't say them around me)
@@ -69,14 +68,21 @@ also hello to whoever is looking at my chopped ass code *waves and dances and sh
         <br>12 and under (isn't this game 13+ anyway... or am I imagining that...)
         <br><br>DNI isn't strict I really don't have a problem about most things let's literally be BFFs
       </details>
+      <img height="50" src="https://media1.tenor.com/m/g0Sj4FikcEwAAAAd/blues-brothers-bluesmobile.gif">
     </th>
-    <th>
-      <details>
+    <th><details>
         <summary>BYI</summary>
-        over 18, under 25 (still in the habit of never giving out my age even when I'm grown but that's like internet safety 101 guys lowkey)
+        over 18, under 25 (don't feel like giving out my age unless close, internet safety 101)
         <br>Cuddling does NOT mean ship I've seen some ppl tweak out about that but usually I'm just platonic with party or friends it's NOT that serious!!!
         <br>Sometimes when I get too high I start buggin and get a touch trigger idk why that happens but if I'm being very specific about interacting or moving or sitting positions pls be nice XP
       </details>
+      <img height="50" src="https://media1.tenor.com/m/gtb6hE7E064AAAAd/blues-brothers-illinois-state-police.gif">
+    </th>
+    <th><details>
+      <summary>Intrests</summary>
+      wip uuughhhh i'm bored
+      </details>
+      <img height="50" src="https://media1.tenor.com/m/FiOxENgKlSoAAAAd/the-blues-brothers-red-light.gif">
     </th>
   </tr>
 </table>
