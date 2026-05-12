@@ -41,6 +41,9 @@ also hello to whoever is looking at my chopped ass code *waves and dances and sh
   </tr>
 </table>
 
+<p align="center">
+  <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Flag_of_Maryland.svg/1280px-Flag_of_Maryland.svg.png"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Flag_of_Nevada.svg/1280px-Flag_of_Nevada.svg.png"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Flag_of_Wales.svg/1920px-Flag_of_Wales.svg.png"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Flag_of_New_Brunswick.svg/1920px-Flag_of_New_Brunswick.svg.png">
+</p>
 
 <table align="center">
   <tr>
