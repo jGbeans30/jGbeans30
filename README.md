@@ -24,36 +24,35 @@ also hello to whoever is looking at my chopped ass code *waves and dances and sh
   </tr>
 </table>
 
-<table align="center">
+<table align="left">
   <tr>
     <th align="center" ><img width="380" src="https://web.archive.org/web/20091021165807if_/http://www.geocities.com/eugenefides28/Starry_divider.gif"></th>
   </tr>
   <tr>
-    <th align="left">☆ Call me JG or Kitty!! ☆ He/Him 
-      <br>★ Autistic, so I'm going to be awkward even if 
-      <br>  we're friends, sorry <3
-      <br>☆ usually chatting in whispers or party, but don't be 
-      <br> scared to talk to me! I don't bite :J
+    <th align="left">☆ Call me JG or Kitty!! ☆ He/Him ☆ Transsexual
+      <br>★ ¡Autistic! I'm going to be a little awkward most 
+      <br> times even if we're friends, apologies <3
+      <br>☆ Usually chatting in whispers / party or making ponies,
+      <br> but also splitscreen drawing and watching videos if afk
       <br>★ Huge Big Bang Theory and BNL fan, you'll find me
-      <br>  in those skins most often ^^
-      <br>☆ lowkey been a little depressed lately, sorry if I'm
-      <br>  quiet whn u try to talk to me #DoingMyBest</th>
+      <br> in those skins most often ^^
+      <br>☆ Lowkey been a little depressed lately, sorry if I'm
+      <br> quiet when u try to talk to me #DoingMyBest</th>
   </tr>
 </table>
+<table align="left">
+  <tr>
+    <th align="left">
       
-          dni - proship/darkship, you make
-                "touching" jokes (you can int, just
-                don't make them around me pls),
-                ur like 12 or something.
-                honestly idrc about dni just dont
-                be weird
-          
-          int - if you LOVE BIG BANG THEORY
-                if you LOVE THE BARENAKED LADIES
-                if you LOVE BREAKING BAD/BETTER CALL SAUL
+     dni - proship/darkship
+           you make "touching" jokes (you can int, 
+           just don't make them around me pls)
+           you're like 12 or something.
+           honestly idrc about dni just dont be weird
+  </tr>
+</table>
 
-
-<table align="center">
+<table align="left">
   <tr>
     <th>
 <img width="114" src="https://file.garden/Zp9noIad_WH59L9w/github/xX_5wagMa5ter9000_Xx"><img width="123" src="https://file.garden/Zp9noIad_WH59L9w/github/detachable_peeeeenisx3"><img width="142" src="https://file.garden/Zp9noIad_WH59L9w/github/it_me_kittyx3">
