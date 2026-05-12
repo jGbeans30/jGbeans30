@@ -40,17 +40,7 @@ also hello to whoever is looking at my chopped ass code *waves and dances and sh
       <br> quiet when u try to talk to me #DoingMyBest</th>
   </tr>
 </table>
-<table align="left">
-  <tr>
-    <th align="left">
-      
-     dni - proship/darkship
-           you make "touching" jokes (you can int, 
-           just don't make them around me pls)
-           you're like 12 or something.
-           honestly idrc about dni just dont be weird
-  </tr>
-</table>
+
 
 <table align="left">
   <tr>
