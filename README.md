@@ -19,7 +19,7 @@ also hello to whoever is looking at my chopped ass code *waves and dances and sh
   <tr>
     <th>
       
-![CD](https://graphic.neocities.org/cdisk.gif)![currently playing](https://spotify-github-profile.kittinanx.com/api/view?uid=fluffyfireworks&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=e0c826&bar_color_cover=false)<br>![Recently played](https://lastfm-recently-played.vercel.app/api?user=JG1847020&count=7&width=390&header_style=compact_stats&loved=true&loved_style=3&maxage=60&bg_color=085859)
+![CD](https://graphic.neocities.org/cdisk.gif)![currently playing](https://spotify-github-profile.kittinanx.com/api/view?uid=fluffyfireworks&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=e0c826&bar_color_cover=false)<br>![Recently played](https://lastfm-recently-played.vercel.app/api?user=JG1847020&count=8&width=390&header_style=compact_stats&loved=true&loved_style=3&maxage=60&bg_color=085859)
     </th>
   </tr>
 </table>
@@ -46,6 +46,8 @@ also hello to whoever is looking at my chopped ass code *waves and dances and sh
   <tr>
     <th>
 <img width="114" src="https://file.garden/Zp9noIad_WH59L9w/github/xX_5wagMa5ter9000_Xx"><img width="123" src="https://file.garden/Zp9noIad_WH59L9w/github/detachable_peeeeenisx3"><img width="142" src="https://file.garden/Zp9noIad_WH59L9w/github/it_me_kittyx3">
+<br>
+<img width="126" src="https://file.garden/Zp9noIad_WH59L9w/github/maroonx3"><img width="135" src="https://file.garden/Zp9noIad_WH59L9w/github/jimmyyyyx3">
     </th>
   </tr>
   <tr>
