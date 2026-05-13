@@ -42,7 +42,7 @@ also hello to whoever is looking at my chopped ass code *waves and dances and sh
 </table>
 
 <p align="center">
-  <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Flag_of_Saint-Pierre_and_Miquelon.svg/1280px-Flag_of_Saint-Pierre_and_Miquelon.svg.png"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Flag_of_Nevada.svg/1280px-Flag_of_Nevada.svg.png"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Flag_of_Maryland.svg/1280px-Flag_of_Maryland.svg.png"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Flag_of_Wales.svg/1920px-Flag_of_Wales.svg.png"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Flag_of_New_Brunswick.svg/1920px-Flag_of_New_Brunswick.svg.png">
+  <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Flag_of_Saint-Pierre_and_Miquelon.svg/1280px-Flag_of_Saint-Pierre_and_Miquelon.svg.png" title="Flag of New Brunswick"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Flag_of_Nevada.svg/1280px-Flag_of_Nevada.svg.png" title="Flag of Wyoming"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Flag_of_Maryland.svg/1280px-Flag_of_Maryland.svg.png" title="Flag of Delaware"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Flag_of_Wales.svg/1920px-Flag_of_Wales.svg.png" title="Flag of Scotland"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Flag_of_New_Brunswick.svg/1920px-Flag_of_New_Brunswick.svg.png" title="Flag of Saint Pierre and Miquelon">
 </p>
 
 <table align="center">
