@@ -88,6 +88,7 @@ also hello to whoever is looking at my chopped ass code *waves and dances and sh
         <summary>Bonus</summary>
         guys hi guys i love you guys hi guys guy hi g<br>
         <img src="https://file.garden/Zp9noIad_WH59L9w/github/holy%20shitt">
+        <br><img src="https://file.garden/Zp9noIad_WH59L9w/github/Queermedias">
       </details>
       </details>
       <img height="50" src="https://media1.tenor.com/m/FiOxENgKlSoAAAAd/the-blues-brothers-red-light.gif">
