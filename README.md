@@ -15,6 +15,8 @@ also hello to whoever is looking at my chopped ass code *waves and dances and sh
   <img src="https://gifcity.carrd.co/assets/images/gallery49/11d94fa3.gif?v=49efbe4c">
 </p>
 
+<div>
+  
 <table align="right">
   <tr>
     <th>
@@ -57,6 +59,8 @@ also hello to whoever is looking at my chopped ass code *waves and dances and sh
     <th align="center"> Fun Fact: Literally Me <br><img width="380" src="https://web.archive.org/web/20091021165807if_/http://www.geocities.com/eugenefides28/Starry_divider.gif"></th>
   </tr>
 </table>
+
+</div>
 
 <table align="center">
   <tr>
