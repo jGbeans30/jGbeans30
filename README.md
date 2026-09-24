@@ -21,7 +21,7 @@ also hello to whoever is looking at my chopped ass code *waves and dances and sh
   <tr>
     <th>
       
-![CD](https://graphic.neocities.org/cdisk.gif)![currently playing](https://spotify-github-profile.kittinanx.com/api/view?uid=fluffyfireworks&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=e0c826&bar_color_cover=false)<br>![Recently played](https://lastfm-recently-played.jeffreyca.workers.dev/svg?user=JG1847020&count=9&width=390&radius=5&bg_color=085859&username=0&stats=block&loved=title)
+![CD](https://graphic.neocities.org/cdisk.gif)![currently playing](https://spotify-github-profile.kittinanx.com/api/view?uid=fluffyfireworks&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&hide_remaster=true&bar_color=e0c826&bar_color_cover=false)<br>![Recently played](https://lastfm-recently-played.jeffreyca.workers.dev/svg?user=JG1847020&count=9&width=390&radius=5&bg_color=085859&username=0&stats=block&loved=title)
     </th>
   </tr>
 </table>
