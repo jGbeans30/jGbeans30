@@ -59,6 +59,7 @@ also hello to whoever is looking at my chopped ass code *waves and dances and sh
     <th align="center"> Fun Fact: Literally Me <br><img width="380" src="https://web.archive.org/web/20091021165807if_/http://www.geocities.com/eugenefides28/Starry_divider.gif"></th>
   </tr>
 </table>
+<br>
 
 </div>
 
